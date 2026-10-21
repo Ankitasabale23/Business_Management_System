@@ -1,0 +1,14 @@
+{
+    "services": [
+        {
+            "id": "I101",
+            "name": "web design",
+            "description": "web service",
+            "status": "active"
+        }
+    ],
+    "programs": [],
+    "internships": [],
+    "customers": [],
+    "inquiries": []
+}
